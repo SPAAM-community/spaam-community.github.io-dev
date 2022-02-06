@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            SPAAM Community
 tagline:          Website for the SPAAM Community
-description:      'An open community for ancient metagenomics researchers'
+description:      'Standards, Precautions, and Advances in Ancient Metagenomics Community'
 url:              https://spaam-community.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
