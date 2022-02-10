@@ -13,4 +13,4 @@ Our main events are the annual SPAAM meetings, however other project and trainin
 - AncientMetagenomeDir Metadatathon Dec 2021
 - AncientMetagenomeDir Metadatathon Nov 2021
 - SPAAM3
-- [SPAAM2](/events/spaam2/about.md)
+- [SPAAM2](/events/spaam2/about.html)

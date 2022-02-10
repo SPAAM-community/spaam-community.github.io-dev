@@ -1,10 +1,18 @@
 ---
 layout: page
 title: SPAAM2 - About
-sidebar_links: true
+toc: true
 ---
 
-> SPAAM2 was a great success, thanks to the >60 attendees. Particpant list, discussion transcripts and slides of SPAAM2 can be seen at [https://github.com/SPAAM-community/spaam-event-notes](https://github.com/SPAAM-community/spaam-event-notes).
+## Table of Contents
+
+- [About](/events/spaam2/about.html) 
+- [Programme](/events/spaam2/programme.html)
+- [Travel Instructions](/events/spaam2/travel.html)
+- [Food and Activities](/events/spaam2/foodandactivities.html)
+- [Code of Conduct](/events/spaam2/codeofconduct.html)
+
+> 🎉 SPAAM2 was a great success, thanks to the >60 attendees. Participant list, discussion transcripts and slides of SPAAM2 can be seen at [https://github.com/SPAAM-community/spaam-event-notes](https://github.com/SPAAM-community/spaam-event-notes).
 
 #### What?
 
@@ -16,11 +24,13 @@ challenges of ancient metagenomics
 width="40%"/>](https://spaam-community.github.io/)[<img align="absmiddle"
 src="/assets/media/ISBA9_logo.png" width="20%"/>](https://isba9.sciencesconf.org/)
 
-:warning: SPAAM2 Registration is now **CLOSED**.
+⚠️ SPAAM2 Registration is now **CLOSED**.
 
-:warning: SPAAM2 will now be hosted online due to postponement of ISBA9.
+⚠️ SPAAM2 will now be hosted online due to postponement of ISBA9.
 
-Please see the [programme](/events/spaam2/programme.md) for more information.
+Please see the [programme](/events/spaam2/programme.html) and [food and activities](/events/spaam2/foodandactivities.html) for more information.
+
+Adherence to the [Code of Conduct](/events/spaam2/codeofconduct.html) is required for attendance!
 
 ### When?
 
@@ -43,6 +53,8 @@ participants prior the address via email!
 
 ~~Université Fédérale de Toulouse~~ ~~41 allée Jules Guesde, ~~ ~~Toulouse~~  
 ~~FRANCE~~
+
+~~Please see [travel](/events/spaam2/travel.html) for more information~~
 
 ### Event Description
 
@@ -94,22 +106,16 @@ what support you may require in the registration form.
 ### Organising Committee
 
 <!--- Ugly hack but it works -->
-  <img
-  src="https://www.shh.mpg.de/employee_images/45083-1580056306?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4"
-  alt="James Fellows Yates" width="70" height="83"> <img
-  src="https://www.shh.mpg.de/employee_images/95205-1579004652?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4"
-  alt="Irina Velsko" width="70" height="83"> <img
-  src="https://images.zapnito.com/users/79428/avatar/medium_photo_ash.jpg"
-  alt="Åshild Vågene" width="83" height="83"> <img
-  src="https://isba9.sciencesconf.org/data/pages/clio.png" alt="Clio Der
-  Sarkissian" width="65" height="83"> <img
-  src="https://www.holofood.eu/files/Portraits/Anna%20-4-.jpg" alt="Anna
-  Fotakis" width="120" height="83"> <img
-  src="https://www.shh.mpg.de/employee_images/95812-1563799491?t=eyJ3aWR0aCI6MjEyLCJoZWlnaHQiOjI3MiwiZml0IjoiY3JvcCJ9--c0c64f6fa687c0cbabebf449f6f6744f1fcdd5f3"
-  alt="Alex Hübner" width="65" height="83">
+<div class="row" style="margin-right:20px;">
+  <img src="https://www.shh.mpg.de/employee_images/45083-1580056306?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4" alt="James Fellows Yates" width="70" height="83"> 
+  <img src="https://www.shh.mpg.de/employee_images/95205-1579004652?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4" alt="Irina Velsko" width="70" height="83"> 
+  <img src="https://i1.rgstatic.net/ii/profile.image/323288876683264-1454089482313_Q512/Ashild-Vagene.jpg" alt="Åshild Vågene" width="83" height="83"> 
+  <img src="https://isba9.sciencesconf.org/data/pages/clio.png" alt="Clio Der Sarkissian" width="65" height="83"> 
+  <img src="https://www.holofood.eu/files/Portraits/Anna%20-4-.jpg" alt="Anna Fotakis" width="120" height="83"> 
+  <img src="https://www.shh.mpg.de/employee_images/95812-1563799491?t=eyJ3aWR0aCI6MjEyLCJoZWlnaHQiOjI3MiwiZml0IjoiY3JvcCJ9--c0c64f6fa687c0cbabebf449f6f6744f1fcdd5f3" alt="Alex Hübner" width="65" height="83">
 </div>
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;James&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alex
+  James&nbsp;&nbsp;&nbsp;&nbsp;Irina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alex
 </div>
 
 ---

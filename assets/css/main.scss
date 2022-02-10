@@ -10,3 +10,7 @@ $link-color: #732a82;
 $sidebar-sticky: false;
 $root-font-family: -apple-system, 'Varela Round', Arial, sans-serif !default;
 @import "hydeout";
+
+.row {
+  display: flex;
+}
